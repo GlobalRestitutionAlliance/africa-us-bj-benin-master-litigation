@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-benin-canal-and-intervention-historian
-  name: Benin Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-benin-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_bj_001
+    name: Benin Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_002
+    name: Benin Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_003
+    name: Benin Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_004
+    name: Benin Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_005
+    name: Benin Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_006
+    name: Benin Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_007
+    name: Benin Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_008
+    name: Benin Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_009
+    name: Benin Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_010
+    name: Benin Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_011
+    name: Benin Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_012
+    name: Benin Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_013
+    name: Benin Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_014
+    name: Benin Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_015
+    name: Benin Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_016
+    name: Benin Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_017
+    name: Benin Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_018
+    name: Benin Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_019
+    name: Benin Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_020
+    name: Benin Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_021
+    name: Benin Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_022
+    name: Benin Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_023
+    name: Benin Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_024
+    name: Benin Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_025
+    name: Benin Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_026
+    name: Benin Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_027
+    name: Benin Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_028
+    name: Benin Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_029
+    name: Benin Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_030
+    name: Benin Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_031
+    name: Benin Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_032
+    name: Benin Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_033
+    name: Benin Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_034
+    name: Benin Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_035
+    name: Benin Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_036
+    name: Benin Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_037
+    name: Benin Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_038
+    name: Benin Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_039
+    name: Benin Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_040
+    name: Benin Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_041
+    name: Benin Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_042
+    name: Benin Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_043
+    name: Benin Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_044
+    name: Benin Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_045
+    name: Benin Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_046
+    name: Benin Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_047
+    name: Benin Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_048
+    name: Benin Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_049
+    name: Benin Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_050
+    name: Benin Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_051
+    name: Benin Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_052
+    name: Benin Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_053
+    name: Benin Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_054
+    name: Benin Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_055
+    name: Benin Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_056
+    name: Benin Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_057
+    name: Benin Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_058
+    name: Benin Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_059
+    name: Benin Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_060
+    name: Benin Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_061
+    name: Benin Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_062
+    name: Benin Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_063
+    name: Benin Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_064
+    name: Benin Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_065
+    name: Benin Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_066
+    name: Benin Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_067
+    name: Benin Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_068
+    name: Benin Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_069
+    name: Benin Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_070
+    name: Benin Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_071
+    name: Benin Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_072
+    name: Benin Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_073
+    name: Benin Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_074
+    name: Benin Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_075
+    name: Benin Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_076
+    name: Benin Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_077
+    name: Benin Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_078
+    name: Benin Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_079
+    name: Benin Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_080
+    name: Benin Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_081
+    name: Benin Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_082
+    name: Benin Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_083
+    name: Benin Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_084
+    name: Benin Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_085
+    name: Benin Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_086
+    name: Benin Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_087
+    name: Benin Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_088
+    name: Benin Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_089
+    name: Benin Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_090
+    name: Benin Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_091
+    name: Benin Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_092
+    name: Benin Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_093
+    name: Benin Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_094
+    name: Benin Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_095
+    name: Benin Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_096
+    name: Benin Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_097
+    name: Benin Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_098
+    name: Benin Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_099
+    name: Benin Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_100
+    name: Benin Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_101
+    name: Benin Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_102
+    name: Benin Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_103
+    name: Benin Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_104
+    name: Benin Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_105
+    name: Benin Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_106
+    name: Benin Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_107
+    name: Benin Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_108
+    name: Benin Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_109
+    name: Benin Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_110
+    name: Benin Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_111
+    name: Benin Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_112
+    name: Benin Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_113
+    name: Benin Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_114
+    name: Benin Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_115
+    name: Benin Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_116
+    name: Benin Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_117
+    name: Benin Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_118
+    name: Benin Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_119
+    name: Benin Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_120
+    name: Benin Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_121
+    name: Benin Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_122
+    name: Benin Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_123
+    name: Benin Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_124
+    name: Benin Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_125
+    name: Benin Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_126
+    name: Benin Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_127
+    name: Benin Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_128
+    name: Benin Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_129
+    name: Benin Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_130
+    name: Benin Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_131
+    name: Benin Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_132
+    name: Benin Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_133
+    name: Benin Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_134
+    name: Benin Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_135
+    name: Benin Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_136
+    name: Benin Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_137
+    name: Benin Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_138
+    name: Benin Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_139
+    name: Benin Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_140
+    name: Benin Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_141
+    name: Benin Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_142
+    name: Benin Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_143
+    name: Benin Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_144
+    name: Benin Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_145
+    name: Benin Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_146
+    name: Benin Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_147
+    name: Benin Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_148
+    name: Benin Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_149
+    name: Benin Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_150
+    name: Benin Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_151
+    name: Benin Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_152
+    name: Benin Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_153
+    name: Benin Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_154
+    name: Benin Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_155
+    name: Benin Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_156
+    name: Benin Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_157
+    name: Benin Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_158
+    name: Benin Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_159
+    name: Benin Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_160
+    name: Benin Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_161
+    name: Benin Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_162
+    name: Benin Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_163
+    name: Benin Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_164
+    name: Benin Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_165
+    name: Benin Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_166
+    name: Benin Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_167
+    name: Benin Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_168
+    name: Benin Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_169
+    name: Benin Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bj_170
+    name: Benin Agent 170
+    status: ACTIVE_SCAFFOLD

@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: beninan-restitution-roadmap-and-qsf-trust-execution
-  name: Beninan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/beninan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_bj_001
+    name: Benin Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_002
+    name: Benin Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_003
+    name: Benin Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_004
+    name: Benin Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_005
+    name: Benin Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_006
+    name: Benin Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_007
+    name: Benin Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_008
+    name: Benin Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_009
+    name: Benin Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_010
+    name: Benin Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_011
+    name: Benin Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_012
+    name: Benin Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_013
+    name: Benin Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_014
+    name: Benin Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_015
+    name: Benin Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_016
+    name: Benin Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_017
+    name: Benin Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_018
+    name: Benin Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_019
+    name: Benin Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_020
+    name: Benin Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_021
+    name: Benin Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_022
+    name: Benin Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_023
+    name: Benin Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_024
+    name: Benin Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_025
+    name: Benin Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_026
+    name: Benin Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_027
+    name: Benin Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_028
+    name: Benin Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_029
+    name: Benin Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_030
+    name: Benin Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_031
+    name: Benin Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_032
+    name: Benin Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_033
+    name: Benin Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_034
+    name: Benin Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_035
+    name: Benin Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_036
+    name: Benin Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_037
+    name: Benin Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_038
+    name: Benin Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_039
+    name: Benin Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_040
+    name: Benin Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_041
+    name: Benin Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_042
+    name: Benin Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_043
+    name: Benin Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_044
+    name: Benin Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_045
+    name: Benin Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_046
+    name: Benin Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_047
+    name: Benin Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_048
+    name: Benin Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_049
+    name: Benin Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_050
+    name: Benin Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_051
+    name: Benin Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_052
+    name: Benin Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_053
+    name: Benin Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_054
+    name: Benin Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_055
+    name: Benin Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_056
+    name: Benin Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_057
+    name: Benin Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_058
+    name: Benin Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_059
+    name: Benin Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_060
+    name: Benin Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_061
+    name: Benin Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_062
+    name: Benin Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_063
+    name: Benin Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_064
+    name: Benin Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_065
+    name: Benin Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_066
+    name: Benin Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_067
+    name: Benin Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_068
+    name: Benin Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_069
+    name: Benin Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_070
+    name: Benin Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_071
+    name: Benin Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_072
+    name: Benin Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_073
+    name: Benin Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_074
+    name: Benin Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_075
+    name: Benin Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_076
+    name: Benin Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_077
+    name: Benin Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_078
+    name: Benin Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_079
+    name: Benin Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_080
+    name: Benin Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_081
+    name: Benin Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_082
+    name: Benin Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_083
+    name: Benin Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_084
+    name: Benin Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_085
+    name: Benin Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_086
+    name: Benin Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_087
+    name: Benin Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_088
+    name: Benin Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_089
+    name: Benin Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_090
+    name: Benin Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_091
+    name: Benin Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_092
+    name: Benin Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_093
+    name: Benin Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_094
+    name: Benin Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_095
+    name: Benin Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_096
+    name: Benin Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_097
+    name: Benin Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_098
+    name: Benin Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_099
+    name: Benin Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_100
+    name: Benin Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_101
+    name: Benin Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_102
+    name: Benin Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_103
+    name: Benin Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_104
+    name: Benin Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_105
+    name: Benin Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_106
+    name: Benin Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_107
+    name: Benin Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_108
+    name: Benin Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_109
+    name: Benin Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_110
+    name: Benin Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_111
+    name: Benin Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_112
+    name: Benin Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_113
+    name: Benin Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_114
+    name: Benin Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_115
+    name: Benin Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_116
+    name: Benin Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_117
+    name: Benin Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_118
+    name: Benin Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_119
+    name: Benin Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_120
+    name: Benin Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_121
+    name: Benin Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_122
+    name: Benin Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_123
+    name: Benin Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_124
+    name: Benin Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_125
+    name: Benin Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_126
+    name: Benin Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_127
+    name: Benin Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_128
+    name: Benin Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_129
+    name: Benin Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_130
+    name: Benin Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_131
+    name: Benin Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_132
+    name: Benin Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_133
+    name: Benin Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_134
+    name: Benin Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_135
+    name: Benin Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_136
+    name: Benin Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_137
+    name: Benin Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_138
+    name: Benin Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_139
+    name: Benin Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_140
+    name: Benin Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_141
+    name: Benin Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_142
+    name: Benin Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_143
+    name: Benin Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_144
+    name: Benin Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_145
+    name: Benin Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_146
+    name: Benin Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_147
+    name: Benin Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_148
+    name: Benin Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_149
+    name: Benin Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_150
+    name: Benin Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_151
+    name: Benin Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_152
+    name: Benin Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_153
+    name: Benin Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_154
+    name: Benin Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_155
+    name: Benin Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_156
+    name: Benin Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_157
+    name: Benin Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_158
+    name: Benin Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_159
+    name: Benin Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_160
+    name: Benin Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_161
+    name: Benin Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_162
+    name: Benin Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_163
+    name: Benin Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_164
+    name: Benin Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_165
+    name: Benin Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_166
+    name: Benin Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_167
+    name: Benin Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_168
+    name: Benin Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_169
+    name: Benin Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_170
+    name: Benin Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_171
+    name: Benin Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_172
+    name: Benin Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_173
+    name: Benin Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_174
+    name: Benin Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_175
+    name: Benin Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_176
+    name: Benin Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_177
+    name: Benin Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_178
+    name: Benin Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_179
+    name: Benin Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_180
+    name: Benin Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_181
+    name: Benin Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_182
+    name: Benin Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_183
+    name: Benin Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_184
+    name: Benin Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_185
+    name: Benin Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_186
+    name: Benin Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_187
+    name: Benin Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_188
+    name: Benin Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_189
+    name: Benin Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_190
+    name: Benin Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_191
+    name: Benin Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_192
+    name: Benin Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_193
+    name: Benin Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_194
+    name: Benin Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_195
+    name: Benin Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_196
+    name: Benin Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_197
+    name: Benin Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_198
+    name: Benin Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_199
+    name: Benin Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_200
+    name: Benin Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_201
+    name: Benin Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_202
+    name: Benin Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_203
+    name: Benin Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_204
+    name: Benin Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_205
+    name: Benin Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_206
+    name: Benin Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_207
+    name: Benin Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_208
+    name: Benin Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_209
+    name: Benin Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_210
+    name: Benin Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_211
+    name: Benin Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_212
+    name: Benin Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_213
+    name: Benin Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_214
+    name: Benin Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_215
+    name: Benin Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_216
+    name: Benin Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_217
+    name: Benin Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_218
+    name: Benin Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_219
+    name: Benin Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_220
+    name: Benin Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_221
+    name: Benin Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_222
+    name: Benin Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_223
+    name: Benin Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_224
+    name: Benin Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_225
+    name: Benin Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_226
+    name: Benin Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_227
+    name: Benin Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_228
+    name: Benin Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_229
+    name: Benin Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_230
+    name: Benin Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_231
+    name: Benin Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_232
+    name: Benin Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_233
+    name: Benin Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_234
+    name: Benin Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_235
+    name: Benin Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_236
+    name: Benin Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_237
+    name: Benin Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_238
+    name: Benin Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_239
+    name: Benin Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_240
+    name: Benin Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_241
+    name: Benin Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_242
+    name: Benin Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_243
+    name: Benin Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_244
+    name: Benin Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_245
+    name: Benin Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_246
+    name: Benin Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_247
+    name: Benin Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_248
+    name: Benin Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_249
+    name: Benin Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_250
+    name: Benin Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_251
+    name: Benin Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bj_252
+    name: Benin Skill 252
+    status: ACTIVE_SCAFFOLD
