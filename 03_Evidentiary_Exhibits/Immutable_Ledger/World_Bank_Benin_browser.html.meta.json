@@ -1,0 +1,16 @@
+{
+  "url": "https://data.worldbank.org/country/benin",
+  "final_url": "https://data.worldbank.org/country/benin",
+  "title": "World Bank Benin",
+  "fetched_at": "2026-11-23T00:13:43.903163Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60013,
+  "sha256": "d878da784dec5f89f0262b64d985960a7668e32877e4d9800bfdbabb545bc4f3",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+}
